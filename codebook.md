@@ -2,8 +2,7 @@ Two datasets: Observational and Features
 
 Observational dataset 
 dataset variable: mn2
-10299 records in total
-
+ 
 Subject -- a numeric factor 1-30 identifying the subject of the test
 Activity --  six factors identifying the activity of the measurement:  walking, walking_upstairs, walking_downstairs, sitting, standing, laying
 bodyaccx1-bodyaccx128 -- these variables capture the 128 measurements of the body accelerometer in the x dimension    
