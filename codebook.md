@@ -1,6 +1,6 @@
-#codebook
+Two datasets: Observational and Features
 
-observational data 
+Observational dataset 
 dataset variable: mn2
 10299 records in total
 
@@ -17,7 +17,8 @@ totalaccy1-totalaccx128  -- these variables capture the 128 measurements of the 
 totalaccz1-totalaccx128  -- these variables capture the 128 measurements of the total in the  dimension
 
 
-feature data 
+Feature dataset 
 dataset variable: data1
-See features.txt and features_info.txt for complete details.
+561 variables in total
+This dataset is fully described in features.txt and features_info.txt uploaded to this repository.
 
