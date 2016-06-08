@@ -4,36 +4,36 @@ Run_Analysis.R Program Objectives
 
 The folder structure of the data.
 
-/UCI_HAR_Dataset
+	/UCI_HAR_Dataset
 
-	/test
+		/test
 	
-		/inertial_signals
+			/inertial_signals
 		
-		 subject_test.txt
+			 subject_test.txt
 		 
-		 x_test.txt
+			 x_test.txt
 		 
-		 y_test.txt
+			 y_test.txt
 		 
-	/train
+		/train
 	
-		/inertial_signals
+			/inertial_signals
 		
-		 subject_train.txt
+		 	subject_train.txt
 		 
-		 x_train.txt
+			 x_train.txt
 		 
-		 y_train.txt
+		 	y_train.txt
 		 
 		 
-	activity_labels.txt
+		activity_labels.txt
 	
-	features.txt
+		features.txt
 	
-	features_info.txt
+		features_info.txt
 	
-	readme.txt
+		readme.txt
 
 The inertial_signal_ and _test sub-folders each contain 9 files. Each file respresents a different type of observation from either the accelerometer or gyroscope sensor; each subject file contains 7352 (test/2947) records of 128 numeric measurements taken approximately 2.5 seconds apart. This is the "raw" observational data. For the purpose of this assignment, this data will not be used.
 
